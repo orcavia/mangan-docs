@@ -30,6 +30,8 @@ We encourage you to review the privacy policies of those third-party providers a
 
 ## Content and Uploads
 
+Mangan Browser is a web browser app. We do **not host, provide, or curate any content** within the app. All content you access is entirely determined by the websites you choose to visit. This includes any manga, images, or media—Mangan Browser simply displays content loaded from external sources.
+
 As a browser, Mangan Browser allows users to visit websites that may involve uploading content. However, we do **not collect, store, or access any user-uploaded content**. Any uploads are handled directly between the user and the external websites they interact with.
 
 ---
